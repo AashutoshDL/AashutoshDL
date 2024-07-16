@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Virtual Platform**
 
-- 🌱 I’m currently learning **MERN,python,React**
+- 🌱 I’m currently learning **MERN,python,React,WebGL,3JS**
 
 - 📫 How to reach me **aashudahal11@gmail.com**
 
