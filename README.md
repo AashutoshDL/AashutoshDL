@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashutoshdl" alt="aashutoshdl" /></a> </p>
 
-- 🔭 I’m currently working on **Virtual Platform** **React Native Application**
+- 🔭 I’m currently working on **Virtual Platform** and **React Native Application**
 
 - 🌱 I’m currently learning **MERN,python,React,WebGL,3JS**
 
