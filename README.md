@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning **Node,Express,Python,React,WebGL,3JS,WebXR**
 
 - 📫 How to reach me **aashudahal11@gmail.com**
+- My personal portfolio **https://aashutoshdl.github.io/portfolio/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
