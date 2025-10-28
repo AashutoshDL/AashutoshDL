@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashutoshdl" alt="aashutoshdl" /></a> </p>
 
-- 🌱 I’m currently working in **React,WebGL,3JS,WebXR**
+- 🌱 I’m currently working in **React,Node,Django,Augmented Reality**
 
 - 📫 How to reach me **aashudahal11@gmail.com**  
 - My personal portfolio **https://aashutoshdl.github.io/portfolio/**
